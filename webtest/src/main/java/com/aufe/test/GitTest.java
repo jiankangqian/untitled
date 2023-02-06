@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("hello world");
         System.out.println("你好,小明");
         System.out.println("I love you");
+        System.out.println("还有多远走入你的心灵");
     }
 }
